@@ -1,4 +1,4 @@
-# timer
+# Animated_Container
 A simple animated container with flutter
 
 A new Flutter project.
